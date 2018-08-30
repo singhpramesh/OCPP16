@@ -8,8 +8,7 @@
   },
   "main": "OCPPServer1.6.js",
   "scripts": {
-    "start": "node OCPPServer1.6.js start_cs 9000",
-	"postinstall": "npm install --prefix app/Resources && gulp --gulpfile app/Resources/gulpfile.js"
+    "start": "node OCPPServer1.6.js start_cs 9000"
 },
   "dependencies": {
     "websocket": "~1.0.8",
