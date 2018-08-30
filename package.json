@@ -2,11 +2,9 @@
   "name": "OCPPServer6",
   "description": "Experimental OCPP Simulator",
   "version": "1.0.1",
-  "author": "Pramesh",
-  
-  "license": "BSD",
+  "author": "Pramesh",  
   "engines": {
-    "node": ">=0.6.10"
+    "node": "8.11.3"
   },
   "main": "OCPPServer1.6.js",
   "scripts": {
